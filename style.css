@@ -77,6 +77,20 @@ li{
     font-size: 20px;
     font-weight: bolder;
 }
+#img5{
+    /* background-image: url(benet.jpg);
+    background-size: cover;
+    background-repeat: no-repeat; */
+    /* width: 1800px;
+   height: 900px;
+   opacity: 300px; */
+   width: 1100px;
+   height: 950px;
+   margin-left: 6%;
+   margin-right: 6%;
+ }
+ 
+ 
 
 footer {
     background-color: #F2F2F2;
