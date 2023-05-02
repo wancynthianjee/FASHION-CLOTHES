@@ -1,0 +1,110 @@
+li{
+    display: inline-block;
+    padding: 20px;
+}
+.navbar{
+    text-align: center;
+}
+.content{
+   background-color: blueviolet;
+}
+#p{
+    font-size: 40px;
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: -20%;
+    margin-left: 12%;
+}
+#img1{
+    margin-left: 40%;
+}
+#btn1{
+    padding: 10px 50px;
+    margin-left: 12%;
+    text-align: center;
+    background-color:hotpink;
+    border-style: none;
+}
+#p1{
+    font-size: 20px;
+    margin-top: 8%;
+    color: gray;
+    text-align: center;
+}
+#p2{
+    font-size: 20px;
+    color: blue;
+   padding: 10px;
+    display: inline;
+}
+.photos{
+    display: flex;
+    gap: 7px;
+    /* margin-left: 5%; */
+}
+.imgs{
+    padding: 10px;
+    border:1px hidden#fff;
+    border-spacing: 3px;
+    border-radius: 10px;
+}
+#btn2{
+    padding: 20px 80px;
+    margin-left: 39%;
+    text-align: center;
+    background-color:hotpink;
+    margin-top: 2%;
+    border-style: none;
+    margin-bottom: 2%;
+}
+#img7{
+    margin-left: 50%;
+}
+#img8{
+    margin-left: 50%;
+    margin-top: -20%;
+}
+#bennet{
+ margin-top: -20%;
+}
+#p4{
+    text-align: center;
+    font-size: 20px;
+    color: gray;
+}
+#p5{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+footer {
+    background-color: #F2F2F2;
+    padding: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .footer-row {
+    flex-basis: calc(25% - 20px);
+    margin-bottom: 30px;
+  }
+  .footer-row ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+  }
+  .footer-row ul li {
+    margin: 0rem 0;
+  }
+  .about-shop-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .about-shop-icons i {
+    margin: 0 10px;
+    font-size: 24px; /* adjust the font size as needed */
+  }
